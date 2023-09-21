@@ -1,0 +1,7 @@
+var batteryLevel = 5;
+console.log("Playing with a Remote Control Car");
+while(batteryLevel > 0){
+    console.log("Playing with a toy car");
+    batteryLevel--;
+}
+console.log("The toy car battery is Empty!!!");
